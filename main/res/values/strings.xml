@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Alios Smart Meter</string>
+
+    <string name="electricity_output">Total Bill Amount: RM%s</string>
+    <string name="rebate_output">Rebate amount: RM%s</string>
+    <string name="final_cost_output">Final Cost: RM%s</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="programcode">ICT602</string>
+    <string name="copyright"> Copyright &#169; 2024 Alia Nuryasmin</string>
+    <string name="summary">Alios Smart Meter application is go-to tool for effortless electricity calculation, ensuring precise tracking of usage and facilitating informed energy management decisions.</string>
+
+    <string name="step1"> Step 1 : This Application only work with number no alphabet</string>
+    <string name="step2"> Step 2 : Enter Number of kWh </string>
+    <string name="step3"> Step 3 : Enter Number of Rebate (0-5%)</string>
+    <string name="step4"> Step 4 : Click Button Calculate</string>
+    <string name="step5"> Step 5 : Click Button Reset for another calculation</string>
+</resources>
